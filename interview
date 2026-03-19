@@ -1,0 +1,118 @@
+INTERIM PREPARATION TIPS:
+1. html
+	what is new in html?
+	input elements 
+	forms
+	tables
+	largest heading
+	why html?what's the use ?
+2.CSS3
+	types of stylesheet
+	selectors
+		all hyperlinks inside div
+	which will win-id selector,or inline?or external?
+	why css?
+ 
+3. javascript
+	what is ES6?
+	DOM
+	what is arrow function?
+	how willl u change the style of an element using js?
+	arrays
+	slice,splice etc..
+	obejcts in json ans js
+	how do u convert an object into json and vice versa
+	setTimeOut fucntion
+	async
+	wait
+	string fucntion
+ 
+4. SQL
+	union,union all,
+	correlated subquery
+	gp by and order by
+	where and having
+	join types
+	MINUS
+	INTERSECT
+	PROJECTION SELECTION
+ 
+5. java
+	collections
+	stream api
+	lambda
+	method reference
+	threads 
+	legacy classes-vector,hashtable
+	arraylist vs linked list
+	static 
+	final
+	functional interface
+	abstract
+	multi - threading - executor service
+	concorrent hashmap-used for thread safe hashmap
+	set does not support list iterator - note
+ 
+	-> how will you sort the elements of hashset?
+	-> how will you display elements from last to first in any set?
+ 
+	io streams:
+		reader vs input streams
+		jdbc - very good to know
+ 
+6. Datastructure , Searches , Design Principles
+ 
+spring
+	what is dI and its types  
+	field, setter, constructor injection
+		
+(feild injection not possible in xml config)
+	IOC
+	tightly couples vs loosly coupled
+	what is jsp?
+ 
+	all annotations:
+	@requestmapping vs @getmapping
+	@requestbody and @responsebody
+	@RequestParam - key value in url
+	@Pathvariable - just a /{} in url
+	what is @ModelAttribute ? - imp(spring forms use this )
+	excetiptions 
+
+AOP - 
+	its cross cutting , a separate layer to take care of 	
+						before , after , arounf
+Aspect
+	advices
+	advices apply based on a SpEL pointcut expression
+MVC
+
+@Controller vs @RestController
+@RequestMapp vs @GetMapping
+@RequestBody
+@ResponseBody
+@RequestParam : http://localhost:8080/product?id=20&name=Pencil
+@PathVariable : http://localhost:8080/product/20/Pencil
+
+ModelAttribute
+
+
+ 
+REST 
+	principles
+ 
+JPA
+	enitiy
+	id
+	generated value
+	table
+	column
+	transient -imp
+ 
+Relationships 
+	one to many
+	many to one
+	one to one
+	many to many
+ 
+what is @CrossOrigin ? - CORS
